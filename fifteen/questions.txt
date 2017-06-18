@@ -1,0 +1,6 @@
+0. Framework allows for dimensions 3x3 --> 9x9 square 2D Matrices as defined
+by DIM_MIN and DIM_MAX
+1. The game's board is represented by a 2D array.  In this case, the array
+must be square
+2. The greet function is called
+3. init, draw, move, and won need to be implemented
